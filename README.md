@@ -4,8 +4,12 @@ Implementation of paper Residual Integration Neural network and some stability a
 Associated paper : https://ieeexplore.ieee.org/document/8683447
 
 License: CECILL-C license
-Copyright IMT Atlantique/OceaniX, contributor(s) : S. Ouala, A. Pascual, R. Fablet 21/03/2020
+Copyright IMT Atlantique/OceaniX, 
+
+contributor(s) : S. Ouala, A. Pascual, R. Fablet 21/03/2020
+
 Contact person: said.ouala@imt-atlantique.fr
+
 This software is a computer program whose purpose is to identify 
 dynamcail representations and th corresponding numerical schemes for t
 emporally sparse data.

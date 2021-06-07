@@ -6,7 +6,7 @@ Associated paper : http://arxiv.org/abs/2105.04999
 License: CECILL-C license
 Copyright IMT Atlantique/OceaniX, 
 
-contributor(s) : S. Ouala, L. Debreu, B. Chapron, A. Pascual, F. Collard, L. Gaultier, R. Fablet; 07/06/2021
+contributor(s) : S. Ouala, L. Debreu, A. Pascual, B. Chapron, F. Collard, L. Gaultier, R. Fablet; 07/06/2021
 
 Contact person: said.ouala@imt-atlantique.fr
 

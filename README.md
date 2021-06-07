@@ -1,12 +1,12 @@
 # ADRK
-Implementation of paper Residual Integration Neural network and some stability analysis notebook
+Implementation of paper Learning Runge-Kutta integration schemes for ODE simulation and identification
 
-Associated paper : https://ieeexplore.ieee.org/document/8683447
+Associated paper : http://arxiv.org/abs/2105.04999
 
 License: CECILL-C license
 Copyright IMT Atlantique/OceaniX, 
 
-contributor(s) : S. Ouala, A. Pascual, R. Fablet 21/03/2020
+contributor(s) : S. Ouala, L. Debreu, B. Chapron, A. Pascual, F. Collard, L. Gaultier, R. Fablet; 07/06/2021
 
 Contact person: said.ouala@imt-atlantique.fr
 
